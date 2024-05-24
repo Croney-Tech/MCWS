@@ -1,8 +1,8 @@
 # MCWS
 Powered By Games.Croney-Tech
-[MCWS](mcws-games.croney.tech)
-[Games.Croney-Tech](games.croney.tech)
-[Dev.Croney-Tech](dev.croney.tech)
+[MCWS](https://mcws-games.croney.tech)
+[Games.Croney-Tech](https://games.croney.tech)
+[Dev.Croney-Tech](https://dev.croney.tech)
 
 ## Authors
 
